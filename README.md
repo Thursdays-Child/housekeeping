@@ -3,7 +3,7 @@ housekeeping - temporary holder
 
 ----
 
-Probably requires minimum gnu/linux, python, supervisord, flask, grafan, influx, mqtt
+Probably requires at minimum GNU/Linux, Python3, supervisord, flask, grafana, influxdb, mqtt
   * Bash for local I/O > anything that can't be gotten through os.xyz   
   * MQTT for remote I/O  
   * Python for the MV & C glue, local I/O  
